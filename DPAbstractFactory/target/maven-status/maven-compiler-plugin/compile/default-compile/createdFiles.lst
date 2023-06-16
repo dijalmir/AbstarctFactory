@@ -1,0 +1,6 @@
+io\github\dijalmir\dpabstractfactory\FactoryProvider.class
+io\github\dijalmir\dpabstractfactory\AbstractFactory.class
+io\github\dijalmir\dpabstractfactory\Notebook.class
+io\github\dijalmir\dpabstractfactory\FactoryNotebookGamer.class
+io\github\dijalmir\dpabstractfactory\NotebookGamer.class
+io\github\dijalmir\dpabstractfactory\NotebookOfficeW.class
